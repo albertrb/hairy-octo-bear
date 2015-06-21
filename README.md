@@ -1,3 +1,1 @@
 # hairy-octo-bear
-
-#Text
